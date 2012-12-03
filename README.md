@@ -1,0 +1,1 @@
+# Ruby on Rails tutorial: a playground sample application
